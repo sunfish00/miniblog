@@ -1,14 +1,9 @@
 [
-  {
-    "date": "2025-10-11",
-    "title": "First Post",
-    "content": "This is my first miniblog post! I’m excited.",
-    "image": "https://via.placeholder.com/200"
-  },
-  {
-    "date": "2025-10-10",
-    "title": "Second Post",
-    "content": "This is another test post with no image.",
-    "image": ""
-  }
+  { "date": "2025-10-11", "title": "Post 1", "content": "..." },
+  { "date": "2025-10-10", "title": "Post 2", "content": "..." },
+  { "date": "2025-10-09", "title": "Post 3", "content": "..." },
+  { "date": "2025-10-08", "title": "Post 4", "content": "..." },
+  { "date": "2025-10-07", "title": "Post 5", "content": "..." },
+  { "date": "2025-10-06", "title": "Post 6", "content": "..." },
+  { "date": "2025-10-05", "title": "Post 7", "content": "..." }
 ]
