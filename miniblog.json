@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2025-10-11",
+    "title": "First Post",
+    "content": "This is my first miniblog post! I’m excited.",
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "date": "2025-10-10",
+    "title": "Second Post",
+    "content": "This is another test post with no image.",
+    "image": ""
+  }
+]
