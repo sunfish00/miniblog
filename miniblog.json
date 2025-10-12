@@ -1,10 +1,14 @@
 [
-  { "date": "2025-10-11", "title": "Post 1", "content": "..." },
-  { "date": "2025-10-10", "title": "Post 2", "content": "..." },
-  { "date": "2025-10-09", "title": "Post 3", "content": "..." },
-  { "date": "2025-10-08", "title": "Post 4", "content": "..." },
-  { "date": "2025-10-07", "title": "Post 5", "content": "..." },
-  { "date": "2025-10-06", "title": "Post 6", "content": "..." },
-  { "date": "2025-10-05", "title": "Post 7", "content": "..." },
-  { "date": "2025-10-05", "title": "Post 8", "content": "..." }
+  {  "date": "2025-10-11",
+  "title": "",
+  "content": "Test",
+  "image": "https://sunfish00.github.io/miniblog/img/xielianplush2.jpg"},
+  
+  { "date": "2025-10-10", "title": "", "content": "..." },
+  { "date": "2025-10-09", "title": "", "content": "..." },
+  { "date": "2025-10-08", "title": "", "content": "..." },
+  { "date": "2025-10-07", "title": "", "content": "..." },
+  { "date": "2025-10-06", "title": "", "content": "..." },
+  { "date": "2025-10-05", "title": "", "content": "..." },
+  { "date": "2025-10-05", "title": "", "content": "..." }
 ]
